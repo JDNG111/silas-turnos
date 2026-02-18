@@ -149,7 +149,7 @@ mvn --version    # >= 3.8
 #### 1️⃣ Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tuusuario/silas-turnos.git
+git clone https://github.com/JDNG111/silas-turnos.git
 cd silas-turnos
 ```
 
@@ -461,16 +461,20 @@ CANCELLED CANCELLED CANCELLED
 <div align="center">
 
 ### Dashboard Principal
-<img src="https://via.placeholder.com/900x500/667eea/ffffff?text=Dashboard+Principal" alt="Dashboard" width="100%"/>
+<img width="1577" height="573" alt="image" src="https://github.com/user-attachments/assets/0a6def12-90ce-433a-abb5-93c6184ab681" />
+
 
 ### Panel de Operador
-<img src="https://via.placeholder.com/900x500/764ba2/ffffff?text=Panel+de+Operador" alt="Operador" width="100%"/>
+<img width="1557" height="785" alt="image" src="https://github.com/user-attachments/assets/ff7c3ab3-104b-4a33-a48e-088823945fa3" />
+
 
 ### Pantalla Pública
-<img src="https://via.placeholder.com/900x500/f093fb/ffffff?text=Pantalla+Publica" alt="Pantalla Pública" width="100%"/>
+<img width="1554" height="791" alt="image" src="https://github.com/user-attachments/assets/62dbd819-07c5-4d43-b37c-9e617f80c5d7" />
+
 
 ### Generación de Turnos
-<img src="https://via.placeholder.com/900x500/4CAF50/ffffff?text=Generacion+Turnos" alt="Generación" width="100%"/>
+<img width="976" height="842" alt="image" src="https://github.com/user-attachments/assets/9ea1010a-1dd4-43c3-8527-6d972ccf656f" />
+
 
 </div>
 
@@ -619,7 +623,7 @@ MIT License - Copyright (c) 2024
 
 <div align="center">
 
-**Tu Nombre**
+**JDNG111**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JDNG111)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:NAVARROESTUDIANTE1010@GMAIL.COM)

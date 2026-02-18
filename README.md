@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎫 SILAS
+# SILAS
 
 ### *Sistema Inteligente de Gestión de Turnos y Atención al Cliente*
 

@@ -1,0 +1,17 @@
+D:\projects_vue\backend-silas\src\main\java\com\silas\model\Service.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\controller\ServiceController.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\repository\TurnRepository.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\service\TurnService.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\dto\ServiceDTO.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\controller\TurnController.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\dto\DashboardDTO.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\model\TurnStatus.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\controller\DashboardController.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\SilasApplication.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\controller\TestController.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\model\Turn.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\service\DashboardService.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\dto\TurnResponseDTO.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\model\Priority.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\dto\TurnRequestDTO.java
+D:\projects_vue\backend-silas\src\main\java\com\silas\repository\ServiceRepository.java

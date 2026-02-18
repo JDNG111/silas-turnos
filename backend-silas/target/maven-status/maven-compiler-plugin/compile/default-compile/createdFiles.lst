@@ -1,0 +1,14 @@
+com\silas\dto\TurnResponseDTO.class
+com\silas\dto\ServiceDTO.class
+com\silas\dto\TurnRequestDTO.class
+com\silas\service\TurnService.class
+com\silas\model\Priority.class
+com\silas\controller\ServiceController.class
+com\silas\controller\TestController.class
+com\silas\model\Service.class
+com\silas\controller\TurnController.class
+com\silas\model\Turn.class
+com\silas\repository\ServiceRepository.class
+com\silas\repository\TurnRepository.class
+com\silas\SilasApplication.class
+com\silas\model\TurnStatus.class
